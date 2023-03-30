@@ -31,3 +31,18 @@ Building a TCP stack(C, 500) -- Probably coded in the kernel, integrate the ethe
 telnetd, the power of being multiprocess(C, 50) --  Written in C, user can connect multiple times with telnet. Really just a bind shell.
 Space saving dynamic linking(C, 300) -- Because we can, explain how dynamic linker is just a user space program. Changes to linker required.
 So about that web(C, 500+) -- A “nice” text based web browser, using ANSI and terminal niceness. Dynamically linked and nice, nice as you want.
+
+
+Resources -->  
+
+-> Nand to Tetris (I & II): https://drive.google.com/file/d/1EWCOVIcg0-dX0XtL3KwNyra6jzMogXLL/view
+
+                            https://www.coursera.org/learn/nand2tetris2/home/week/1
+                            
+-> Transistor Theory - https://backyardbrains.com/experiments/transistorTheory#prettyPhoto
+Transistor Circuit Design - https://backyardbrains.com/experiments/transistorDesign
+
+
+
+                    
+                  
